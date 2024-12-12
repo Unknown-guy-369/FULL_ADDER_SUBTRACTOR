@@ -37,6 +37,7 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+
 Full Adder Truth table
 
 ![Truth table add](image.png)
@@ -61,10 +62,12 @@ Full Subtracter Truth table
 2. Draw the full subtractor circuit using schematic design.
 3. The circuit includes XOR, AND, OR gates to perform subtraction.
 4. Compile, simulate, implement, and program the design similarly to the full adder.
-
+5. Implement the design on the target device and program it.
+   
 **Program:**
 
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
  Developed by:Abishek Priyan M
  
  RegisterNumber:24900880
