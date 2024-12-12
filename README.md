@@ -49,31 +49,29 @@ Full Subtracter Truth table
 
 **For Full Adder**
 
-1.Open Quartus II and create a new project. 
-2.Use schematic design entry to draw the full adder circuit. 3.The circuit consists of XOR, AND, and OR gates. 
-4.Compile the design, verify its functionality through simulation.
- 5.Implement the design on the target device and program it.
+1. Open Quartus II and create a new project. 
+2. Use schematic design entry to draw the full adder circuit.
+3. The circuit consists of XOR, AND, and OR gates. 
+4. Compile the design, verify its functionality through simulation.
+5. Implement the design on the target device and program it.
 
 **For Full Subtractor**
 
-1.Follow the same steps as for the full adder. 2.Draw the full subtractor circuit using schematic design. 3.The circuit includes XOR, AND, OR gates to perform subtraction. 4.Compile, simulate, implement, and program the design similarly to the full adder.
+1. Follow the same steps as for the full adder.
+2. Draw the full subtractor circuit using schematic design.
+3. The circuit includes XOR, AND, OR gates to perform subtraction.
+4. Compile, simulate, implement, and program the design similarly to the full adder.
 
 **Program:**
-~~~v
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
- Developed by:Abishek Priyan M 
- RegisterNumber:24900880
-*/
 
-module fulladdsub (A, B, C, SUM, CARRY, DIFF, BORROW);
-input A, B, C;
-output SUM, CARRY, DIFF, BORROW;
-assign SUM= A^B^C;
-assign CARRY=((A^B) &C) | (A&B);
-assign DIFF= A^B^C;
-assign BORROW= ((~(A^B)) &C) | ((~A)&B);
-endmodule
-~~~
+Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+ Developed by:Abishek Priyan M
+ 
+ RegisterNumber:24900880
+
+
+![image](https://github.com/user-attachments/assets/065613f1-cb88-4625-abec-17278e93a347)
+
 
 **RTL Schematic**
 
