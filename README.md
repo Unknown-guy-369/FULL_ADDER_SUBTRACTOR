@@ -1,6 +1,6 @@
 ### Register number : 24900880
 ### Name : Abishek Priyan M
-### Experiment 4: FULL ADDER SUBTRACTOR
+### Experiment 4: IMPLEMENTATION OF FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
