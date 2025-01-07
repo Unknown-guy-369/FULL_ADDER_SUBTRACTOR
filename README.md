@@ -68,23 +68,23 @@ Full Subtracter Truth table
    
 **Program:**
 
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 
- Developed by:Abishek Priyan M
- 
- RegisterNumber:24900880
+![image](https://github.com/user-attachments/assets/ba895332-0cad-4ae3-b1d2-5c6693c4d7a8)
 
-
-![image](https://github.com/user-attachments/assets/065613f1-cb88-4625-abec-17278e93a347)
+![image](https://github.com/user-attachments/assets/a624e3df-def8-4dea-91ad-d638935f1ec6)
 
 
 **RTL Schematic**
 
-![RTL](image-2.png)
+![image](https://github.com/user-attachments/assets/0843f758-e283-4e3c-8a0d-b38de66ee83e)
+
+![image](https://github.com/user-attachments/assets/d9b7acb6-78fe-4e97-b297-6c71dd1ab667)
 
 **Output Timing Waveform**
 
-![Timing](image-3.png)
+![image](https://github.com/user-attachments/assets/d767c2d1-b32a-43d7-acd5-b0f4f47e1b7f)
+
+![image](https://github.com/user-attachments/assets/8a35c204-c6ab-478d-9e57-b8eaf5d11666)
 
 **Result:**
 
